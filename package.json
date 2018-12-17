@@ -1,0 +1,30 @@
+{
+  "name": "javascript-calculator",
+  "version": "1.0.6",
+  "description": "This is a simple Js Calculator",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meenalal/Javascript-Calculator.git"
+  },
+  "keywords": [
+    "npm",
+    "npm-javascript-calculators",
+    "jquery-calculator",
+    "js-calculator",
+    "calculator",
+    "html-css-jquery-calculator",
+    "calc",
+    "jquery-calc",
+    "js-calc",
+    "basic-calc",
+    "dynamic-color-change-calculator",
+    "dynamic-color-change-calc"
+  ],
+  "author": "Meenal Subramanian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meenalal/Javascript-Calculator/issues"
+  },
+  "homepage": "https://github.com/meenalal/Javascript-Calculator#readme"
+}
